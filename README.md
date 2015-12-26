@@ -1,4 +1,4 @@
-#Lightweight webapp generator
+# Lightweight webapp generator
 Yeoman generator to create lightweight webapps with high potential
 
 ## Getting started
