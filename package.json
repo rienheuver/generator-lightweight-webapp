@@ -1,0 +1,13 @@
+{
+  "name": "generator-lightweight-webapp",
+  "version": "1.0.0",
+  "description": "A simple generator to create high potential webapps with.",
+  "keywords": ["yeoman-generator"],
+  "author": "Rien Heuver",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.22.1"
+  },
+  "files": ["app"],
+  "main": "index.js"
+}
