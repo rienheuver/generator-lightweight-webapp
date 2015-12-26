@@ -5,7 +5,7 @@
   "keywords": ["yeoman-generator","bootstrap","livereload","less"],
   "author": {
     "name": "Rien Heuver",
-    "url": "http://rienheuver.nl",
+    "url": "http://rienheuver.nl"
   },
   "homepage": "https://github.com/rienheuver/generator-lightweight-webapp",
   "license": "MIT",
