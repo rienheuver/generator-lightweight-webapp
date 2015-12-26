@@ -2,9 +2,17 @@
   "name": "generator-lightweight-webapp",
   "version": "1.0.0",
   "description": "A simple generator to create high potential webapps with.",
-  "keywords": ["yeoman-generator"],
-  "author": "Rien Heuver",
+  "keywords": ["yeoman-generator","bootstrap","livereload","less"],
+  "author": {
+    "name": "Rien Heuver",
+    "url": "http://rienheuver.nl",
+  },
+  "homepage": "https://github.com/rienheuver/generator-lightweight-webapp",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rienheuver/generator-lightweight-webapp.git"
+  },
   "dependencies": {
     "yeoman-generator": "^0.22.1"
   },
