@@ -1,8 +1,13 @@
 {
   "name": "generator-lightweight-webapp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple generator to create high potential webapps with.",
-  "keywords": ["yeoman-generator","bootstrap","livereload","less"],
+  "keywords": [
+    "yeoman-generator",
+    "bootstrap",
+    "livereload",
+    "less"
+  ],
   "author": {
     "name": "Rien Heuver",
     "url": "http://rienheuver.nl"
@@ -16,6 +21,8 @@
   "dependencies": {
     "yeoman-generator": "^0.22.1"
   },
-  "files": ["app"],
+  "files": [
+    "app"
+  ],
   "main": "index.js"
 }
